@@ -6,7 +6,7 @@
 [JUnit Home](https://github.com/junit-team/junit4/wiki/Download-and-Install)
 
 ### Read this shit
-[JUnit Home](https://junit.org/junit4/javadoc/latest/org/junit/Assert.html
+[Assert API](https://junit.org/junit4/javadoc/latest/org/junit/Assert.html)
 
 ### Test class shit
 **Test.java**
@@ -52,5 +52,3 @@ javac -cp .:../classes/:junit-4.13.jar TestClass.java
 ```
 java -cp .:../classes/:junit-4.13.jar:hamcrest-core-1.3.jar org.junit.runner.JUnitCore TestClass
 ```
-
-
